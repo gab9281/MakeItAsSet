@@ -1,0 +1,15 @@
+{
+  "name": "select-your-character",
+  "version": "1.0.0",
+  "description": "Make it As Set - Project 6 - Character select screen",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server --port=9000"
+  },
+  "author": "Gabriel Moisan Matte",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

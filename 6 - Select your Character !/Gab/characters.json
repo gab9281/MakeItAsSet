@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Mario",
+        "description":"Princess saving italian plumber",
+        "portrait": "/imgs/mini/Mario.png",
+        "large": "/imgs/large/Mario.png",
+        "serie_icon":"/imgs/serie/MarioBros.svg",
+        "select_sound":{
+            "url": "/sounds/Mario.wav",
+            "type": "audio/wav"
+        }
+    }
+]
