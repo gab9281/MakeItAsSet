@@ -1,0 +1,29 @@
+html, body {
+    overflow: hidden;
+    margin: auto;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+
+.vertical-center {
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translate(10%, -50%);
+    transform: translate(10%, -50%);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    src: url('../fonts/Cocogoose.ttf');
+}
+
+canvas {
+    cursor: url(../cur/cursor.cur), none;
+}
